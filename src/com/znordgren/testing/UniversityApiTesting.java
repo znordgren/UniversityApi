@@ -1,19 +1,15 @@
-/**
- * 
- */
 package com.znordgren.testing;
 
 import com.znordgren.universityapi.*;
 
 /**
- * @author zdnorgren
- *
+ * @author zdnordgren
+ * 
+ * Program written to demonstrate features of the universityAPI
+ * 
  */
 public class UniversityApiTesting {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		
 		UniversityApi api = new UniversityApi();
